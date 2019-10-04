@@ -2,7 +2,7 @@
 **Date:**  August-October 2019  
 **Organization:** Penn State University
 
-[Link to timelapse (Working as of October 3rd, 2019)](https://york.psu.edu/academics/graham-fellows-program)
+[Link to timelapse (Working as of October 3rd, 2019)](https://york.psu.edu/academics/graham-fellows-program)  
 [Download link](https://github.com/alexkoontz/timelapse/blob/master/rdme_src/GrahamConstruction.mp4)
 
 ## Problem Description:
