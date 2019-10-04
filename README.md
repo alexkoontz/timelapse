@@ -3,6 +3,7 @@
 **Organization:** Penn State University
 
 [Link to timelapse (Working as of October 3rd, 2019)](https://york.psu.edu/academics/graham-fellows-program)
+[Download link](https://github.com/alexkoontz/timelapse/blob/master/rdme_src/GrahamConstruction.mp4)
 
 ## Problem Description:
 At Penn State York, there was a need for a timelapse of the contruction of a new bulding called the "Graham Center for Innovation and Collaboration."  This timelapse would be in the form of a video file **(.mp4)** and would need to be updated on a regular basis.  This video would be hosted on the Penn State York website for users to view and see the current state of the construction project.
