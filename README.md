@@ -14,9 +14,10 @@ My approach was to use a combination of the Python programming language, Unix sh
 1. Generating pictures to be compiled  
 A outside webcam was set up to generate and save a picture file **(.jpg)** of the construction every day at noon to a Box file hosting folder.
 1. Creating the Python scripts  
-The first python script **(InitialCopyPhotos.py)** was written to copy all of the current daily timelapse photos to a new directory, and then label them in the upper left hand corner with their creation date.  This was done using a Python library called [Pillow](https://pillow.readthedocs.io/en/stable/#),
+  * The first python script **(InitialCopyPhotos.py)** was written to copy all of the current daily timelapse photos to a new directory, and then label them in the upper left hand corner with their creation date.  This was done using a Python library called [Pillow](https://pillow.readthedocs.io/en/stable/#),
 which allows for image manipulation.
 ![Labeled Photo Example](https://raw.githubusercontent.com/alexkoontz/timelapse/master/rdme_src/labelExample1.jpg)
-The second Python script **(DailyLabelNewFrame.py)** was written to run daily and find the most recent image file (i.e. the image that was generated that day).  It would take this file, label it, and save it to the directory with the other labeled photos.
-1. Creating the shell script
-The shell script was created to generate the timelapse video file.  This was done using a program called [FFmpeg](https://www.ffmpeg.org/), which can be run from a Unix terminal.  
+  * The second Python script **(DailyLabelNewFrame.py)** was written to run daily and find the most recent image file (i.e. the image that was generated that day).  It would take this file, label it, and save it to the directory with the other labeled photos.
+1. Creating the shell script  
+The shell script was created to generate the timelapse video file.  This was done using a program called [FFmpeg](https://www.ffmpeg.org/), which can be run from a Unix terminal.  Using many parameters, the script will generate a video file at 4 frames per second at the video resolution matching the image files.  It saves this file to the current directory as *TimelapseExport.mp4*
+1.
