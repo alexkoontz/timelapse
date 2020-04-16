@@ -16,7 +16,7 @@ My approach was to use a combination of the [Python programming language](https:
 
 ## Steps
 1. Generating pictures to be compiled  
-A outside webcam was set up to generate and save a picture file **(.jpg)** of the construction every day at noon to a Box file hosting folder.
+An outside webcam was set up to generate and save a picture file **(.jpg)** of the construction every day at noon to a Box file hosting folder.
 1. Creating the Python scripts  
 -The first python script **(InitialCopyPhotos.py)** was written to copy all of the current daily timelapse photos to a new directory, and then label them in the upper left hand corner with their creation date.  This was done using a Python library called [Pillow](https://pillow.readthedocs.io/en/stable/#),
 which allows for image manipulation.  Here is an example of a labeled image.
