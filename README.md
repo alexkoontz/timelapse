@@ -3,7 +3,7 @@
 
 **Organization:** Penn State University  
 
-**Project Members:** Myself, Dave McLaughlin (resident web developer at Penn State York), and Joe Royer ()
+**Project Members:** Myself, Dave McLaughlin (resident web developer at Penn State York), and Joe Royer (Assistant Director of Information Technology at Penn State York)
 
 [Link to timelapse video (Working as of October 3rd, 2019)](https://york.psu.edu/academics/graham-fellows-program)  
 [Timelapse video download link](https://github.com/alexkoontz/timelapse/blob/master/rdme_src/GrahamConstruction.mp4)
